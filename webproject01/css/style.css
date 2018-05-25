@@ -1,0 +1,38 @@
+
+.header{
+    background-image: linear-gradient( to right, rgba(0, 0, 0, 0.336) , rgba(0, 0, 0, 0.336)), url("../img/bg-2.jpeg");
+    background-position: top;
+    background-size: cover;
+    
+    height: 100%;
+
+}
+.iphone-text {
+    letter-spacing:1rem;
+}
+.navbar-toggler{
+    color:white;
+}
+.myPhone {
+padding:0;
+margin:0;
+
+}
+.myPhone img {
+
+}
+.section1{
+    background-color: #f9f9f9;
+}
+.section2{
+    background-color: #f9f9f9;
+}
+.text-underline{
+  
+}
+.syms{
+    font-size: 19px;
+}
+.syms i {
+  padding: 10px;
+}
